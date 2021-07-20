@@ -1,0 +1,4 @@
+fuzzywuzzy
+pandas
+textdistance
+python-Levenshtein
